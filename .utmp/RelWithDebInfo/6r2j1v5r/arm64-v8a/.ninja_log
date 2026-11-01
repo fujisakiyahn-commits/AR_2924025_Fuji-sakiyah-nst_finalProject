@@ -1,0 +1,12 @@
+# ninja log v5
+491	16139	8150610568108915	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b100d9b93a3651f2
+112	16563	8150610570777062	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9f92af784ce35882
+223	16755	8150610573879904	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e5a67ea07bc67856
+35	16948	8150610576214205	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fc3f4c9d6ef28d4e
+454	17073	8150610577332475	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48ebdc0b62af4c7f
+2	18479	8150610583311374	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	229a4fa77a125bf0
+139	19705	8150610599573140	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9d9ccc3d77e685c4
+16147	19780	8150610603778705	C:/Users/FUJI/Downloads/AR_2924025_Fuji sakiyah nst_finalProject/AR_2924025_Fuji sakiyah nst_finalProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6r2j1v5r/obj/arm64-v8a/libswappywrapper.so	7ab9fb6b80145259
+73	19924	8150610605948049	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	86d16a158e169021
+256	20971	8150610616990763	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d3aa49f3023afdc0
+20973	21408	8150610621664549	C:/Users/FUJI/Downloads/AR_2924025_Fuji sakiyah nst_finalProject/AR_2924025_Fuji sakiyah nst_finalProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6r2j1v5r/obj/arm64-v8a/libgame.so	158bc40f7f6658c0
